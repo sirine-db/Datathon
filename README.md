@@ -17,7 +17,7 @@ Screening mammography is the type of mammogram that checks you when you have no 
 
 Now while its difficult to figure out for physicians  by seeing only images of x-ray that weather the tumor is toxic or not training a machine learning model according to the identification of tumour can be of great help.
 
-## Project Description
+## 🧾Project Description
 
 This script uses mammography data to predict whether a tumor is benign or malignant. After loading and cleaning the data(cell size, texture, and shape..), a correlation analysis is performed to remove less important features.                 
 The dataset is then split into training and test sets.                 

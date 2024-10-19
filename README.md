@@ -3,12 +3,12 @@ Breast Cancer Detection Using Machine Learning
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
 
-##🎗 What is Breast Cancer?
+## 🎗 What is Breast Cancer?
 
 Breast cancer is a disease in which abnormal breast cells grow out of control and form tumours. If left unchecked, the tumours can spread throughout the body and become fatal,
 Early detection of breast cancer is crucial for improving survival rates, offering less aggressive treatments, and enhancing the quality of life.
 
-##💻 Role Of Machine Learning In Detection Of Breast Cancer
+##  💻 Role Of Machine Learning In Detection Of Breast Cancer
 
 A mammogram is an x-ray picture of the breast. It can be used to check for breast cancer in women who have no signs or symptoms of the disease. It can also be used if you have a lump or other sign of breast cancer.
 

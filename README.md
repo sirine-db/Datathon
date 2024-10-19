@@ -32,7 +32,7 @@ An accuracy of 96% was achieved by using .... &....&&....model
 
 ## 👥 Contributors
 
-# -Ines Djazari :@
+### -Ines Djazari :@
 # -Nait cherif Sabrinel :@
 # -Dob Serine :@
 # -Laadi Meriem :@

@@ -19,11 +19,11 @@ Now while its difficult to figure out for physicians  by seeing only images of x
 
 ## Project Description
 
-This script uses mammography data to predict whether a tumor is benign or malignant. After loading and cleaning the data(cell size, texture, and shape..), a correlation analysis is performed to remove less important features. 
-The dataset is then split into training and test sets. 
-Various machine learning models, including Kernel SVM, Naive Bayes, Logistic Regression, Random Forest Classification, and Nearest Neighbor, are trained on the training data, with a visualization of feature importance. 
-The models are then refined before making predictions on a separate test dataset.
-The results are exported to a CSV file, and the performance of the models is evaluated using accuracy and a confusion matrix.
+This script uses mammography data to predict whether a tumor is benign or malignant. After loading and cleaning the data(cell size, texture, and shape..), a correlation analysis is performed to remove less important features.                 
+The dataset is then split into training and test sets.                 
+Various machine learning models, including Kernel SVM, Naive Bayes, Logistic Regression, Random Forest Classification, and Nearest Neighbor, are trained on the training data, with a visualization of feature importance.                   
+The models are then refined before making predictions on a separate test dataset.                
+The results are exported to a CSV file, and the performance of the models is evaluated using accuracy and a confusion matrix.              
  
 ## 🗂️ Project Structure
 

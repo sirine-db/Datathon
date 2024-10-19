@@ -21,8 +21,8 @@ Now while its difficult to figure out for physicians  by seeing only images of x
 
 This script uses mammography data to predict whether a tumor is benign or malignant. After loading and cleaning the data(cell size, texture, and shape..), a correlation analysis is performed to remove less important features.                 
 The dataset is then split into training and test sets.                 
-Various machine learning models, including Kernel SVM, Naive Bayes, Logistic Regression, Random Forest Classification, and Nearest Neighbor, are trained on the training data, with a visualization of feature importance.                   
-The models are then refined before making predictions on a separate test dataset.                
+Various machine learning models, including Kernel SVM, Naive Bayes, Logistic Regression, Random Forest Classification, and Nearest Neighbor,xgboost , are trained on the training data, with a visualization of feature importance.  
+The models are refined and evaluated based on their accuracy, and only the models with the highest accuracy are kept for final predictions on a separate test dataset.
 The results are exported to a CSV file, and the performance of the models is evaluated using accuracy and a confusion matrix.              
  
 ## 🗂️ Project Structure
@@ -34,7 +34,7 @@ The project is organized into the following directories:
 
 
 ## 📌RESULTS 
-An accuracy of 96% was achieved by using  the models (kernel svm,Naive Bayes,Logistic Regression,Random Forest Classification,Nearest Neighbor)
+An accuracy of 96% was achieved by using  the models (Random Forest Classification,xgboost)
 
 ## 👥 Contributors
 

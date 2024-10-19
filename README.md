@@ -1,4 +1,5 @@
 ## 🎗Breast Cancer Detection
+
 Breast Cancer Detection Using Machine Learning
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
@@ -28,14 +29,14 @@ The project is organized into the following directories:
 
 
 ## 📌RESULTS 
-An accuracy of 96% was achieved by using .... &....&&....model 
+An accuracy of 96% was achieved by using  model 
 
 ## 👥 Contributors
 
-Ines Djazari 
-Nait cherif Sabrinel 
-Dob Serine 
-Laadi Meriem 
+Ines Djazari                   
+Nait cherif Sabrinel              
+Dob Serine                    
+Laadi Meriem                 
 
 ##  📝Final Note 
 This project was developed as part of a datathon organized by Micro Club. For more details, visit the following link: [https://microquest.microclub.info/challenges/671139aeaab8d87843b46963].

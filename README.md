@@ -32,14 +32,11 @@ An accuracy of 96% was achieved by using .... &....&&....model
 
 ## 👥 Contributors
 
-### -Ines Djazari :@
-# -Nait cherif Sabrinel :@
-# -Dob Serine :@
-# -Laadi Meriem :@
+### Ines Djazari :@
+### Nait cherif Sabrinel :@
+### Dob Serine :@
+### Laadi Meriem :@
 
 
-## 📜 License
-
-This project is licensed under the USTHB License - see the [LICENSE](LICENSE) file for details.
 
 

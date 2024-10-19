@@ -32,11 +32,11 @@ An accuracy of 96% was achieved by using .... &....&&....model
 
 ## 👥 Contributors
 
-### Ines Djazari :@
-### Nait cherif Sabrinel :@
-### Dob Serine :@
-### Laadi Meriem :@
+Ines Djazari 
+Nait cherif Sabrinel 
+Dob Serine 
+Laadi Meriem 
 
-
-
+## Final Note 
+This project was developed as part of a datathon organized by Micro Club. For more details, visit the following link: [https://microquest.microclub.info/challenges/671139aeaab8d87843b46963].
 

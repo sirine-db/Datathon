@@ -29,7 +29,7 @@ The project is organized into the following directories:
 
 
 ## 📌RESULTS 
-An accuracy of 96% was achieved by using  model 
+An accuracy of 96% was achieved by using  the models (kernel svm,Naive Bayes,Logistic Regression,Random Forest Classification,Nearest Neighbor)
 
 ## 👥 Contributors
 
